@@ -7,7 +7,8 @@ const Dashboard = () => {
             <p>Manage your racers here.</p>
         </div>
     );
-};
+}
 
+   
 
 export default Dashboard;

@@ -1,0 +1,10 @@
+npm install -g concurrently
+concurrently "cd backend && node index.js" "cd frontend && npm start"
+
+
+git add .
+git commit -m "Day 3: Implemented admin panel functionality, routing, and Redux setup"
+git push
+
+
+
